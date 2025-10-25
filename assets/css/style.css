@@ -74,10 +74,12 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
-/* New games */
+ 
+/* Game library cards */
 
-#new-games.section {
-
+#new-games .card,
+#fav-games .card {
+    border: none;
 }
 
 /* grid visualisation CSS for testing */
