@@ -99,7 +99,14 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
- 
+ /* Events */
+ #events .discount {
+
+background-color: var(--highlight-color);
+padding: 7px 25px;
+color: white;
+
+ }
 /* Game library cards */
 
 #new-games .card,
